@@ -1,9 +1,7 @@
 # Личный прокси для чайников: универсальный обход цензуры с помощью VPS, 3X-UI, Reality/CDN и Warp / Хабр
-Уровень сложностиСредний
 
-Время на прочтение28 мин
+Converted [with](https://urltomarkdown.com/) from [source](https://habr.com/ru/articles/785186/).
 
-Количество просмотров227K
 
 ![Карта сокровищ](https://habrastorage.org/r/w1560/getpro/habr/upload_files/7f8/cef/6f7/7f8cef6f7cfd3a1a7165890b014d7685.png "Карта сокровищ")
 
